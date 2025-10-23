@@ -86,7 +86,7 @@ Built a small internal network in a virtualized environment to simulate enterpri
 
 ### 📫 Connect With Me
 [![Email](https://img.shields.io/badge/Email-kevinkefa6@gmail.com-red?style=flat-square&logo=gmail)](mailto:kevinkefa6@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kepher%20Otieno-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kepher-otieno/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kepher%20Otieno-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kepher-otieno-256955252/)  
 [![GitHub](https://img.shields.io/badge/GitHub-kepher99-black?style=flat-square&logo=github)](https://github.com/kepher99)
 
 ---
