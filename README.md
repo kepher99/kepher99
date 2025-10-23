@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi there, I'm Kepher Otieno  
 
-<!--
-**kepher99/kepher99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Frontend Web Developer | Flutter Developer | IT Professional**  
+💡 Passionate about creating user-friendly, responsive web and mobile applications that make a real impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🎓 Graduate in **Information Technology** from **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**
+- 💼 Experience in **Frontend Development**, **IT Systems Support**, and **Software Engineering**
+- 🌍 Based in **Nairobi, Kenya**
+- 🌱 Currently exploring **React**, **Flutter**, and **Cloud Integration**
+- ⚡ I enjoy solving problems, learning new technologies, and contributing to open-source projects.
+
+---
+
+### 🧠 Skills & Technologies
+**Frontend:** HTML, CSS, JavaScript, React, Flutter  
+**Backend:** Node.js, Express  
+**Tools:** Git, VS Code, Chrome DevTools, Slack  
+**Other:** UI/UX Design, Responsive Design, REST APIs, Debugging, Technical Support  
+
+---
+
+### 🛠️ Featured Projects
+
+#### 🧘 [AfyaMind](https://github.com/kepher99/afyamaind)
+A web-based mental health platform providing culturally relevant resources for young adults in Africa.  
+*Tech Stack:* React, Node.js, Firebase  
+🩵 Features: mood tracking, journaling, guided meditations, and an AI-powered chatbot.
+
+#### 🛒 [Amazon Clone](https://github.com/kepher99/amazon-project)
+An e-commerce website inspired by Amazon’s interface.  
+*Tech Stack:* HTML, CSS, JavaScript  
+🛍️ Includes product listings, cart functionality, and responsive design.
+
+#### 📺 [YouTube Page Clone](https://github.com/kepher99/youtube-html-css)
+A responsive YouTube homepage clone built using HTML and CSS.  
+🎨 Focuses on clean UI and layout design principles.
+
+#### 💻 [CS50 Projects](https://github.com/kepher99/cs50x)
+Assignments and problem sets from Harvard’s CS50 course.  
+🧩 Includes Scratch, SQL, and Python projects demonstrating logic and problem-solving.
+
+---
+
+### 🧩 GitHub Stats
+![Kepher's GitHub stats](https://github-readme-stats.vercel.app/api?username=kepher99&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kepher99&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect With Me
+[![Email](https://img.shields.io/badge/Email-kevinkefa6@gmail.com-red?style=flat-square&logo=gmail)](mailto:kevinkefa6@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kepher%20Otieno-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kepher-otieno/)  
+[![GitHub](https://img.shields.io/badge/GitHub-kepher99-black?style=flat-square&logo=github)](https://github.com/kepher99)
+
+---
+
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
