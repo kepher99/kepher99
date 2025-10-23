@@ -38,9 +38,9 @@ An e-commerce website inspired by Amazon’s interface.
 A responsive YouTube homepage clone built using HTML and CSS.  
 🎨 Focuses on clean UI and layout design principles.
 
-#### 💻 [CS50 Projects](https://github.com/kepher99/cs50x)
-Assignments and problem sets from Harvard’s CS50 course.  
-🧩 Includes Scratch, SQL, and Python projects demonstrating logic and problem-solving.
+#### 💻 [Monster Game](https://github.com/kepher99/monster-game)
+A simple and fun interactive web-based game where the player battles a monster using attack, special attack, and heal actions.  
+🧩 This project was created to practice JavaScript logic, DOM manipulation, and event handling in a playful way.
 
 ---
 
