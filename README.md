@@ -24,17 +24,17 @@
 
 ### 🛠️ Featured Projects
 
-#### 🧘 [AfyaMind](https://github.com/kepher99/afyamaind)
+#### 🧘 [AfyaMind](https://github.com/Elizabethcodes44/Mental-Health-App.git) 
 A web-based mental health platform providing culturally relevant resources for young adults in Africa.  
 *Tech Stack:* React, Node.js, Firebase  
 🩵 Features: mood tracking, journaling, guided meditations, and an AI-powered chatbot.
 
-#### 🛒 [Amazon Clone](https://github.com/kepher99/amazon-project)
+#### 🛒 [Amazon Clone](https://github.com/kepher99/javascript-amazon-project.git)
 An e-commerce website inspired by Amazon’s interface.  
 *Tech Stack:* HTML, CSS, JavaScript  
 🛍️ Includes product listings, cart functionality, and responsive design.
 
-#### 📺 [YouTube Page Clone](https://github.com/kepher99/youtube-html-css)
+#### 📺 [YouTube Page Clone](https://github.com/kepher99/youtube_html_css.git)
 A responsive YouTube homepage clone built using HTML and CSS.  
 🎨 Focuses on clean UI and layout design principles.
 
